@@ -1,0 +1,2 @@
+D:\My files\Софтуни\Speed It Up, September 2019 - Project\MassageApplication\MassageApplication\obj\Debug\MassageApplication.csprojAssemblyReference.cache
+D:\My files\Софтуни\Speed It Up, September 2019 - Project\MassageApplication\MassageApplication\obj\Debug\MassageApplication.csproj.CoreCompileInputs.cache
